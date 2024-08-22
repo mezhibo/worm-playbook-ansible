@@ -83,6 +83,6 @@
 ![alt text](https://github.com/mezhibo/worm-playbook-ansible/blob/69959f2d016db68b92c41480b896316b67e62bc5/IMG/5.jpg)
 
 
-[ССЫЛКА ФАЙЛЫ ПРОЕКТА](https://github.com/mezhibo/mnt-homeworks/tree/3832537e2f3b9728258bc4fb1cd088485f35de21/08-ansible-02-playbook/playbook)
+[ССЫЛКА НА ФАЙЛЫ ПРОЕКТА](https://github.com/mezhibo/mnt-homeworks/tree/3832537e2f3b9728258bc4fb1cd088485f35de21/08-ansible-02-playbook/playbook)
 
 
